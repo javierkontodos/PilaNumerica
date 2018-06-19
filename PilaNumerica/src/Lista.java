@@ -7,7 +7,7 @@ public class Lista {
 	}
 	
 	/**
-	 * Funcion de añadir
+	 * Funcion de añadir elementos
 	 * @param elemento
 	 */
 	public void añadir(Informacion info) {
