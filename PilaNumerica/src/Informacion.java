@@ -49,7 +49,7 @@ public class Informacion {
 					if (this.siguiente.getSiguiente() != null) {
 						this.setSiguiente(null);
 					}
-					this.siguiente.añadir(elemento);
+					//this.siguiente.añadir(elemento);
 				}
 				else setSiguiente(new Informacion(elemento));
 			}else this.siguiente.borrar(elemento);
